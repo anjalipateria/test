@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
         <div class="container">
-  <a class="navbar-brand mb-0 h1" href="#">test</a>
+  <a class="navbar-brand mb-0 h1" href="#"><img src="<?php base_url();?>assets/images/logo.png" alt="" style="width:100px; height:100px;"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
